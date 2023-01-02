@@ -1,0 +1,286 @@
+ .first{
+    max-width: 980px;
+    width: 100%;
+    margin: auto;
+    padding-top: 90px!important;
+    padding-bottom: 120px!important;
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    flex-wrap: wrap;
+ }
+ .fa-star{
+    color: #fb813e;
+ }
+ .first .image{
+    margin: auto;
+ }
+ .first .image img{
+    width: 400px ;
+    height: 400px;
+ }
+ .first .course{
+    margin: auto;
+    max-width: 540px;
+ }
+ .first .course h5{
+    color: #0a6dff;
+    font-weight: 700!important;
+    font-size: 14px!important;
+    line-height: 22px!important;
+ }
+ .first .course h1{
+    padding-bottom: 16px;
+    color: #19191d;
+ font-weight: 700!important;
+    font-size: 32px!important;
+    line-height: 42px!important;
+ }
+ .first .course .p1{
+    padding-bottom: 16px;
+ font-weight: 400!important;
+    font-size: 18px!important;
+    line-height: 24px!important;}
+
+    .first .course .button .btn1{
+        border: 1px solid #767373;
+    color: #19191d;
+    border-radius: 6px;
+    min-height: 56px;
+    padding: 0 10px;
+    background: #fff;
+    font: 700 18px/24px Mulish,Roboto,Helvetica Neue,sans-serif;
+}
+.first .course .button .btn1:hover{
+     color: #fff;
+    background-color: #767373;
+     
+}
+.first .course .button {
+    padding-bottom: 16px;
+    margin-top: 32px;
+    display: flex;
+    flex-direction: row ;
+     gap: 24px;
+     
+}
+.first .course .button .btn2{
+    border: none;
+    min-height: 56px;
+    background: #fb813e;
+    border-radius: 8px;
+    color: #fff;
+    padding: 0 25px;
+    font: 700 18px/24px Mulish,Roboto,Helvetica Neue,sans-serif;
+}
+.first .course .button .btn2:hover{
+    background-color: #ea641b;
+}
+.first .course .Rating{
+    background-color: #f3f8ff;
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+   flex-direction: row;
+   margin-top: 24px;
+   padding: 24px!important;
+   border-radius: 12px;
+}
+.first .course .Rating h2 {
+font-weight: 700!important;
+    font-size: 24px!important;
+    line-height: 32px!important;
+}
+.first .course .Rating p {
+font-weight: 400!important;
+    font-size: 14px!important;
+     
+
+}
+@media screen and (max-width:670px) {
+    .first .course{
+        margin: auto;
+        max-width: 500px;
+     }
+}
+@media screen and (max-width:540px) {
+    .first .course{
+        margin: auto;
+        max-width: 400px;
+     }
+}
+@media screen and (max-width:435px) {
+    .first .course{
+        margin: auto;
+        max-width: 300px;
+     }
+}
+@media screen and (max-width:426px) {
+    .first .course{
+        margin: auto;
+        max-width: 300px;
+     }
+     .first .image img{
+        width: 300px ;
+        height: 300px;
+     }
+}
+@media screen and (max-width:335px) {
+    .first .course{
+        margin: auto;
+        max-width: 250px;
+     }
+     .first .image img{
+        width: 250px ;
+        height: 300px;
+     }
+}
+/* Second Page */
+.Second-card{
+    background-image: url(https://files.codingninjas.in/ft-intro-section-bg-7973-10346.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.second{
+    
+    color: #fff;
+    max-width: 980px;
+    width: 100%;
+    margin: auto;
+    padding-top: 60px!important;
+    padding-bottom: 120px!important;
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    flex-wrap: wrap;
+ }
+ .second .image{
+    margin: auto;
+ }
+ .second .image img{
+    width: 400px ;
+    height: 400px;
+ }
+ .second .course{
+    margin: auto;
+    max-width: 540px;
+ }
+ .second .course h5{
+    color: #0a6dff;
+    font-weight: 700!important;
+    font-size: 14px!important;
+    line-height: 22px!important;
+ }
+ .second .course h1{
+    padding-bottom: 16px;
+    color: #fff;
+ font-weight: 700!important;
+    font-size: 32px!important;
+    line-height: 42px!important;
+ }
+ .second .course .p{
+    font-weight: 400!important;
+    font-size: 18px!important;
+    line-height: 24px!important;}
+ 
+ .second .course .p1{
+    padding-bottom: 16px;
+ font-weight: 400!important;
+    font-size: 18px!important;
+    line-height: 24px!important;}
+
+    .second .course .button .btn1{
+        border: 1px solid #767373;
+    color: #19191d;
+    border-radius: 6px;
+    min-height: 56px;
+    padding: 0 10px;
+    background: #fff;
+    font: 700 18px/24px Mulish,Roboto,Helvetica Neue,sans-serif;
+}
+.second .course .button .btn1:hover{
+     color: #fff;
+    background-color: #0d0d5df7;
+     
+}
+.second .course .button {
+    padding-bottom: 16px;
+    margin-top: 32px;
+    display: flex;
+    flex-direction: row ;
+     gap: 24px;
+     
+}
+.second .course .button .btn2{
+    border: none;
+    min-height: 56px;
+    background: #fb813e;
+    border-radius: 8px;
+    color: #fff;
+    padding: 0 25px;
+    font: 700 18px/24px Mulish,Roboto,Helvetica Neue,sans-serif;
+}
+.second .course .button .btn2:hover{
+    background-color: #ea641b;
+}
+.second .course .Rating{
+    background-color: #f3f8ff;
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+   flex-direction: row;
+   margin-top: 24px;
+   padding: 24px!important;
+   border-radius: 12px;
+   color: #19191d;
+}
+.second .course .Rating h2 {
+font-weight: 700!important;
+    font-size: 24px!important;
+    line-height: 32px!important;
+}
+.second .course .Rating p {
+font-weight: 400!important;
+    font-size: 14px!important;
+     
+
+}
+@media screen and (max-width:670px) {
+    .second .course{
+        margin: auto;
+        max-width: 500px;
+     }
+}
+@media screen and (max-width:540px) {
+    .second .course{
+        margin: auto;
+        max-width: 400px;
+     }
+}
+@media screen and (max-width:435px) {
+    .second .course{
+        margin: auto;
+        max-width: 300px;
+     }
+}
+@media screen and (max-width:426px) {
+    .second .course{
+        margin: auto;
+        max-width: 300px;
+     }
+     .second .image img{
+        width: 300px ;
+        height: 300px;
+     }
+}
+@media screen and (max-width:335px) {
+    .second .course{
+        margin: auto;
+        max-width: 250px;
+     }
+     .second .image img{
+        width: 250px ;
+        height: 300px;
+     }
+}
+ 

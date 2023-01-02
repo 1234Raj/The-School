@@ -1,0 +1,64 @@
+.Portfolio{
+    background-color: #f9f9fa;
+    padding: 50px;
+}
+.Portfolio .Head{
+    max-width: 1000px;
+    text-align: center;
+     margin: auto;
+}
+.Portfolio .Head .Description{
+    text-align: center;
+}
+.Portfolio .Head .Description p{
+     margin: auto;
+    padding-top: 10px;
+    max-width: 492px;
+    font-weight: 700!important;
+    font-size: 32px!important;
+    line-height: 42px!important;
+}
+.Portfolio .Contain{
+    max-width: 1200px;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+     flex-wrap: wrap;
+}
+.Portfolio .Contain .Team1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+.Portfolio .Contain .Team1 .icon img{
+    box-shadow: -1px 10px 20px rgb(197 208 216 / 20%);
+     border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    padding: 10px 10px;
+    background-color: #f9f9fa;
+     
+ }
+ .Portfolio .Contain .Team1 h3{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+    color: #212121;
+}
+.Portfolio .Contain .Team1 h5{
+font-size: 12px;
+    line-height: 16px;
+    color: #424242;
+    margin-top: 6px;
+}
+.Portfolio .Contain .Team1 .icon{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}

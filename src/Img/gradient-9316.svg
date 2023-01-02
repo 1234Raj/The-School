@@ -1,0 +1,29 @@
+<svg width="1440" height="513" viewBox="0 0 1440 513" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.4">
+<ellipse cx="1322.59" cy="165.921" rx="97.5134" ry="99.9211" fill="#7C4DFF" fill-opacity="0.7"/>
+<ellipse cx="1141.35" cy="272.122" rx="89.4523" ry="80.4754" fill="#FC9D69" fill-opacity="0.9"/>
+<ellipse cx="1168.39" cy="173.699" rx="82.6914" ry="64.0213" fill="#FF71AC"/>
+<ellipse cx="1203.5" cy="281.997" rx="96.9933" ry="80.7746" fill="#FFD049" fill-opacity="0.6"/>
+</g>
+<g opacity="0.4">
+<ellipse cx="291.113" cy="195.133" rx="95.8984" ry="80.1331" fill="#7C4DFF" fill-opacity="0.7"/>
+<ellipse cx="112.87" cy="280.302" rx="87.9708" ry="64.5384" fill="#FC9D69" fill-opacity="0.9"/>
+<ellipse cx="139.465" cy="201.372" rx="81.3219" ry="51.3428" fill="#FF71AC"/>
+<ellipse cx="173.989" cy="288.222" rx="95.387" ry="64.7783" fill="#FFD049" fill-opacity="0.6"/>
+</g>
+<g filter="url(#filter0_b)">
+<rect width="1440" height="513" transform="matrix(1 0 0 -1 0 513)" fill="url(#paint0_linear)" fill-opacity="0.2"/>
+</g>
+<defs>
+<filter id="filter0_b" x="-90" y="-90" width="1620" height="693" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImage" stdDeviation="45"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear" x1="3.46217e-07" y1="274.707" x2="1440.78" y2="362.057" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>

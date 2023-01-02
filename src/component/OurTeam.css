@@ -1,0 +1,168 @@
+.OurTeam{
+    background-color:#e6f0ff;
+    padding: 50px;
+}
+.OurTeam .Head{
+    max-width: 1000px;
+    text-align: center;
+     margin: auto;
+}
+.OurTeam .Head .Title h1{
+    border-bottom: 1px solid black;
+    width: 40%;
+    margin: auto;
+    padding-bottom: 10px;
+    
+}
+.OurTeam .Head .Description p{
+    padding-top: 10px;
+    color: #19191d;
+    font-size: 25px;
+    font-weight: 700!important;
+}
+.OurTeam .Contain{
+    max-width: 1200px;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+.OurTeam .Contain .Team1{
+    padding-top: 24px!important;
+    padding-left: 8px;
+    padding-right: 8px;
+    width: 284px;
+    color: #19191d;
+    height: 380px;
+    display: block;
+    border-radius: 12px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: #fff;
+    box-shadow: -1px 10px 20px rgb(197 208 216 / 20%);
+}
+.Slider{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+.OurTeam .Contain .Team1 h3{
+    font-weight: 700!important;
+    font-size: 18px!important;
+    line-height: 24px!important;
+    margin-top: 16px!important;
+}
+.OurTeam .Contain .Team1 h5{
+    font-weight: 400!important;
+    font-size: 14px!important;
+    line-height: 22px!important;
+
+}
+.OurTeam .Contain .Team1 img{
+    
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.OurTeam .Contain .Team1 .icon{
+    margin-top: 48px!important;
+      
+}
+.fa-facebook{
+    padding: 10px 12px;
+    color: blue;   
+}
+.fa-twitter{
+    padding: 10px 10px;
+    color: rgb(67, 204, 246);   
+}
+.fa-google{
+    padding: 10px 10px;
+    color: orangered;
+    color:linear-grediant(to right red yellow green blue);   
+}
+.OurTeam .Contain .Team1 .icon i{
+    
+    box-shadow: -1px 10px 20px rgb(197 208 216 / 20%);
+     border-radius: 50%;
+     
+     margin-left: 15px;
+     cursor: pointer;
+}
+.OurTeam .Contain .Team1 .icon i:hover{
+    background-color: #f0f1f1;
+}
+
+@media screen and (max-width:297px) {
+    .OurTeam .Contain .Team1{
+        width: 250px;
+    }
+}
+.Content{
+    background-color: #04439f;
+    padding: 50px;
+}
+.Content .Head{
+    max-width: 1000px;
+    text-align: left;
+     margin: auto;
+}
+.Content .Head .Title h1{
+   color: #f9f9fa;
+    margin: auto;
+    padding-bottom: 10px;
+}
+ 
+.Content .Contain{
+    max-width: 1000px;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+.Content .Contain .Team1{
+box-shadow: -1px 10px 20px rgb(197 208 216 / 20%);
+    width: 270px;
+    min-height: 248px;
+    border-radius: 6px;
+    padding: 20px!important;
+    background-color: #f9f9fa;
+}
+.Content .Contain .Team1 h3{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+    color: #212121;
+}
+.Content .Contain .Team1 h5{
+font-size: 12px;
+    line-height: 16px;
+    color: #424242;
+    margin-top: 6px;
+}
+.Content .Contain .Team1 p{
+    margin-top: 20px!important;
+font-size: 14px;
+    line-height: 156%;
+    color: #757575;
+}
+.Content .Contain .Team1 .icon{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+.Content .Contain .Team1 .icon img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+ }
+
