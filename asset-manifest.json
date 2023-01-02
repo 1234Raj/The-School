@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/The-School/static/css/main.9b312ec8.css",
+    "main.js": "/The-School/static/js/main.63945a50.js",
+    "static/media/Photo5.jpg": "/The-School/static/media/Photo5.1f3e2a391e8eb0ab30f9.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/The-School/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/Design.png": "/The-School/static/media/Design.f1f4be58eb99d294f5e2.png",
+    "static/media/fontawesome-webfont.eot": "/The-School/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/The-School/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/png.png": "/The-School/static/media/png.70b57980f1502be13c97.png",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/The-School/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/The-School/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/school.jpg": "/The-School/static/media/school.69ce533145cc4aac63f1.jpg",
+    "static/media/Photo3.jpg": "/The-School/static/media/Photo3.b964769dcde38b7cba5d.jpg",
+    "static/media/photo4.jpeg": "/The-School/static/media/photo4.591152b18e74b9c53cc1.jpeg",
+    "static/media/image4.jpeg": "/The-School/static/media/image4.17be5ee13f354e7b446a.jpeg",
+    "static/media/graduated.svg": "/The-School/static/media/graduated.ca27b68f21082cd0a8c21f17fc7d7f07.svg",
+    "static/media/desktop.svg": "/The-School/static/media/desktop.09f1194534788f42590547fc4ef10da0.svg",
+    "static/media/call-icon-9597.svg": "/The-School/static/media/call-icon-9597.dd1939d4574a19b79909a7534b70cc5f.svg",
+    "static/media/pause.svg": "/The-School/static/media/pause.770d6d0c4f19dd14e5018742c9c3ab0b.svg",
+    "index.html": "/The-School/index.html",
+    "static/media/practice.svg": "/The-School/static/media/practice.d232be6583d4412f598f094bb14cde4d.svg",
+    "main.9b312ec8.css.map": "/The-School/static/css/main.9b312ec8.css.map",
+    "main.63945a50.js.map": "/The-School/static/js/main.63945a50.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b312ec8.css",
+    "static/js/main.63945a50.js"
+  ]
+}
