@@ -3,7 +3,7 @@ import Home from './component/Home';
 import OurTeams from './component/OurTeams';
 import '../node_modules/font-awesome/css/font-awesome.min.css';
 import '../node_modules/bootstrap/dist/css/bootstrap.css';
-import { BrowserRouter, Route, Routes  } from 'react-router-dom';
+import {  HashRouter, Route, Routes  } from 'react-router-dom';
 import './App.css';
 import AboutUs from './component/AboutUs';
 import OurPortfolio from './component/OurPortfolio';
@@ -13,7 +13,7 @@ import Contact from './component/Contact';
 function App() {
   return (
     
-      <BrowserRouter>
+      <HashRouter>
         <Routes>
         <Route path="/" element={<Home/>}/>
         <Route path="/About" element={<AboutUs/>}/>
@@ -22,7 +22,7 @@ function App() {
          <Route path="/Service" element={<OurService/>}/>
          <Route path="/Contact" element={<Contact/>}/>
          </Routes>
-      </BrowserRouter>
+      </HashRouter>
      
   );
 }
