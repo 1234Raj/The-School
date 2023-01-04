@@ -96,6 +96,7 @@
 }
 .OurTeam .Contain .Team1 .icon i:hover{
     background-color: #f0f1f1;
+    transform: scale(0.8);
 }
 
 @media screen and (max-width:297px) {
@@ -136,6 +137,9 @@ box-shadow: -1px 10px 20px rgb(197 208 216 / 20%);
     border-radius: 6px;
     padding: 20px!important;
     background-color: #f9f9fa;
+}
+.Content .Contain .Team1:hover{
+    transform: scale(1.1);
 }
 .Content .Contain .Team1 h3{
     font-weight: 700;

@@ -8,7 +8,7 @@ import img2 from '../Img/png.png';
 const Front = ()=>{
     return(
 <Carousel variant="dark" >
-      <Carousel.Item interval={11000}>
+      <Carousel.Item interval={11000} variant="dark" >
       <div className="first">
         <div className="course">
           <h5>FOR PROFESSIONALS</h5>
@@ -43,7 +43,7 @@ const Front = ()=>{
         </div>
       </div>
       </Carousel.Item>
-      <Carousel.Item interval={11000}>
+      <Carousel.Item interval={11000} variant="light">
       <div className="Second-card">
       <div className="second">
         <div className="course">
@@ -82,7 +82,7 @@ const Front = ()=>{
       </div>
       </div>
       </Carousel.Item>
-      <Carousel.Item interval={11500}>
+      <Carousel.Item interval={11500} variant="dark">
       <div className="first">
         <div className="course">
           <h5>FOR PROFESSIONALS</h5>
