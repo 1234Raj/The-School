@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/The-School/static/css/main.9b312ec8.css",
-    "main.js": "/The-School/static/js/main.383ed735.js",
+    "main.css": "/The-School/static/css/main.226ec2e7.css",
+    "main.js": "/The-School/static/js/main.a17de585.js",
     "static/media/Photo5.jpg": "/The-School/static/media/Photo5.1f3e2a391e8eb0ab30f9.jpg",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/The-School/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/Design.png": "/The-School/static/media/Design.f1f4be58eb99d294f5e2.png",
@@ -20,11 +20,11 @@
     "static/media/pause.svg": "/The-School/static/media/pause.770d6d0c4f19dd14e5018742c9c3ab0b.svg",
     "index.html": "/The-School/index.html",
     "static/media/practice.svg": "/The-School/static/media/practice.d232be6583d4412f598f094bb14cde4d.svg",
-    "main.9b312ec8.css.map": "/The-School/static/css/main.9b312ec8.css.map",
-    "main.383ed735.js.map": "/The-School/static/js/main.383ed735.js.map"
+    "main.226ec2e7.css.map": "/The-School/static/css/main.226ec2e7.css.map",
+    "main.a17de585.js.map": "/The-School/static/js/main.a17de585.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b312ec8.css",
-    "static/js/main.383ed735.js"
+    "static/css/main.226ec2e7.css",
+    "static/js/main.a17de585.js"
   ]
 }
