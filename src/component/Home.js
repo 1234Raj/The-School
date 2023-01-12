@@ -9,6 +9,7 @@ import OurTeam from "./OurTeam";
 import Portfolio from "./Portfolio";
 import Services from "./Services";
 import SomeAbout from "./SomeAbout";
+import CardsScroll from './CardsScroll';
 
 const Home = () => {
     return(
@@ -19,6 +20,7 @@ const Home = () => {
     <About/>
     <SomeAbout/>
     <OurTeam/>
+    <CardsScroll/>
     <Content/>
     <Portfolio/>
     <Contact/>
